@@ -1,4 +1,4 @@
 # MRGB
-[Deployed App]("https://mrgb.herokuapp.com/");
+"https://mrgb.herokuapp.com/"
 
 This is the deployed back-end of the Mick and Rorty Game application!
